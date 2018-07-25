@@ -4,4 +4,4 @@ helo
 ECHO SOMETHING INTO README
 creating a new branch is quick & simple
 newbranch
-addfilebranch
+insert sth addfilebranch
