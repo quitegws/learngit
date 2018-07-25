@@ -5,3 +5,4 @@ ECHO SOMETHING INTO README
 creating a new branch is quick & simple
 newbranch
 addfilebranch
+new line hhhh
