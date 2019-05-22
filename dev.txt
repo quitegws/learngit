@@ -5,3 +5,5 @@ hiagain
 git is free!
 git is a distributed version control tool
 git create branch is fast and easy
+hi
+hello
