@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 i am echo.txt
 git add
 master
+=======
+hi
+>>>>>>> haha
